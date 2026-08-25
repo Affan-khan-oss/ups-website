@@ -14,7 +14,7 @@ This project was created to practice frontend development by designing a modern 
 
 ---
 
-# 📖 About
+# 📖 About.
 
 **I-VOLT UPS Website** is my first eCommerce-style frontend project.
 
@@ -24,7 +24,7 @@ This project marks an important step in my web development journey.
 
 ---
 
-# ✨ Features
+# ✨ Features.
 
 - 🏠 Responsive Home Page
 - 📦 Product Listing Page
@@ -37,7 +37,7 @@ This project marks an important step in my web development journey.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tech Stack.
 
 - HTML5
 - CSS3
@@ -45,7 +45,7 @@ This project marks an important step in my web development journey.
 
 ---
 
-# 📂 Project Structure
+# 📂 Project Structure.
 
 ```text
 ups-website/
@@ -62,7 +62,7 @@ ups-website/
 
 ---
 
-# 🚀 Getting Started
+# 🚀 Getting Started.
 
 Clone the repository
 
@@ -86,7 +86,7 @@ Open `index.html` in your preferred browser.
 
 ---
 
-# 🎯 What I Learned
+# 🎯 What I Learned.
 
 - Creating multi-page websites
 - Building responsive layouts
@@ -98,7 +98,7 @@ Open `index.html` in your preferred browser.
 
 ---
 
-# 🚧 Future Improvements
+# 🚧 Future Improvements.
 
 - Shopping Cart
 - Product Search
@@ -111,7 +111,7 @@ Open `index.html` in your preferred browser.
 
 ---
 
-# 💡 Note
+# 💡 Note.
 
 This was my first attempt at building an eCommerce-style website. It isn't a fully functional online store, but it helped me understand the fundamentals of frontend web development. I'm keeping this project public because it represents my learning journey and shows how my skills have improved over time.
 
